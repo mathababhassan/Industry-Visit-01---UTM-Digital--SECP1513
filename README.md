@@ -4,10 +4,10 @@
 This assignment involves creating a video documenting our visit to **UTMDigital**, as part of our **Technology and Information Systems (TIS)** course. The video highlights our group's experiences, the program we attended, a detailed presentation of UTMDigital, including some interviews with staff members.
 
 ### Key Information:
-- **Members**: [Mathaba Hassan
-Tagwa Bashir
-Leena Ataelmanan
-Raghad Abdalmagid
+- **Members**: [Mathaba Hassan, 
+Tagwa Bashir, 
+Leena Ataelmanan, 
+Raghad Abdalmagid, 
 Hodan Hassan]
 - **Faculty**: [Dr Suriati]
 - **Date of Visit**: [17 December 2024]
